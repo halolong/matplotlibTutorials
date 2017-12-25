@@ -1,3 +1,4 @@
+# func: 添加Lengend
 import matplotlib.pyplot as plt
 import numpy as np
 

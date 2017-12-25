@@ -1,3 +1,4 @@
+# func: 标记一些图上的注解
 import matplotlib.pyplot as plt
 import numpy as np
 

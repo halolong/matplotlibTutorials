@@ -1,3 +1,4 @@
+# func: 设置某一个点(x,y)为原点 画出axis 并且隐藏右边和上边
 import matplotlib.pyplot as plt
 import numpy as np
 
